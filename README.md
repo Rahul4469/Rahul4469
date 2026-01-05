@@ -1,4 +1,5 @@
-## Hi there 👋
+
+<img width="2752" height="635" alt="rahul_github" src="https://github.com/user-attachments/assets/fd70297b-90f4-4682-8b81-3ebb82c33ad6" />
 
 <!--
 **Rahul4469/Rahul4469** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
