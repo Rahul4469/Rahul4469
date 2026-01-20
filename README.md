@@ -1,23 +1,12 @@
-
-<img width="1000" height="200" alt="about" src="https://github.com/user-attachments/assets/5c35af7b-d11d-4e19-85a0-4304bdf399c4" />
-
-### PROJECT LINKS: 
-https://www.gitanalyze.online/  
-https://adventure-gear-beta.vercel.app/  
-https://www.cloud-memory.online/
-
-
-<!--
-**Rahul4469/Rahul4469** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td width="60%">
+      <img width="500" height="200" alt="about" src="https://github.com/user-attachments/assets/858722f6-6a5d-4ed3-af48-7dd146748597" />
+    </td>
+    <td width="40%" valign="center">
+      Projects links:
+      [https://www.gitanalyze.online/]
+      [https://adventure-gear-beta.vercel.app/]
+      [https://www.cloud-memory.online/]
+  </tr>
+</table>
