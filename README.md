@@ -1,5 +1,10 @@
 
-<img width="3136" height="680" alt="Gemini_Generated_Image_ubo4qkubo4qk" src="https://github.com/user-attachments/assets/5c35af7b-d11d-4e19-85a0-4304bdf399c4" />
+<img width="1000" height="200" alt="about" src="https://github.com/user-attachments/assets/5c35af7b-d11d-4e19-85a0-4304bdf399c4" />
+
+### PROJECT LINKS: 
+https://www.gitanalyze.online/  
+https://adventure-gear-beta.vercel.app/  
+https://www.cloud-memory.online/
 
 
 <!--
